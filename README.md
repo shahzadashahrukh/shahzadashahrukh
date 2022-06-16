@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shah
-- 👀 I’m interested in engineering and finance
-- 🌱 I’m currently reading books
-- 💞️ I’m looking to collaborate on cool project
+- 👀 I’m interested in electrical and computer engineering and finance
+- 🌱 I love to read books and research
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ... https://twitter.com/AskShahzada
 
 <!---
